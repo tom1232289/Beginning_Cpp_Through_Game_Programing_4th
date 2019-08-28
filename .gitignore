@@ -5,3 +5,11 @@
 *.suo
 *.db
 *.opendb
+/c++游戏编程入门（第4版）/Sample/.vs/Sample/v15/ipch/AutoPCH/bc52e5ec7056667
+/c++游戏编程入门（第4版）/Sample/x64/Debug
+/c++游戏编程入门（第4版）/Sample/.vs/Sample/v15/ipch/AutoPCH
+*.tlog
+*.obj
+*.idb
+*.pdb
+/c++游戏编程入门（第4版）/Sample/Sample/x64/Debug
