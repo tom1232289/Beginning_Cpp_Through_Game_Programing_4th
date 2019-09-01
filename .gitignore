@@ -13,3 +13,17 @@
 *.idb
 *.pdb
 /c++游戏编程入门（第4版）/Sample/Sample/x64/Debug
+/c++游戏编程入门（第4版）/Blackjack/.vs/Blackjack/v15/ipch/AutoPCH
+/c++游戏编程入门（第4版）/Blackjack/Blackjack/Debug
+/c++游戏编程入门（第4版）/Blackjack/Blackjack/x64/Debug
+/c++游戏编程入门（第4版）/Blackjack/Blackjack/Blackjack.vcxproj
+*.exe
+*.ilk
+*.ipch
+/c++游戏编程入门（第4版）/exercise10.1/exercise10.1/Debug
+/c++游戏编程入门（第4版）/exercise10.2/exercise10.2/Debug
+/c++游戏编程入门（第4版）/exercise10.2/exercise10.2/x64/Debug/exercise10.2.log
+/c++游戏编程入门（第4版）/exercise10.2/exercise10.2/x64/Debug
+/c++游戏编程入门（第4版）/exercise10.3/exercise10.3/Debug
+/c++游戏编程入门（第4版）/exercise10.3/exercise10.3/x64/Debug
+/c++游戏编程入门（第4版）/exercise7.1/exercise7.1/Debug
